@@ -678,3 +678,43 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+
+
+/* Credit Section */
+
+.heading{
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    text-decoration: underline;
+   }
+  
+   .mainbox {
+       background-color: rgba(255, 255, 255, 0.2);
+       backdrop-filter: blur(5px);
+       position: absolute;
+       height: 15em;
+       width: 18em;
+       margin: auto;
+       top: 0;
+       right: 5%;
+       bottom: 0;
+       border-radius: 5%;
+       padding: 8px 20px 14px;
+   }
+
+
+.bal{
+  font-size: 12px ;
+  color: rgba(255, 255, 255, 0.8);
+  letter-spacing: 0.01em;
+  font-family: sans-serif;
+}   
+.number{
+  font-size: 36px;
+}
+.balamount{
+  font-size: 14px;
+}
+.number2{
+  font-size: 24px;
+}
